@@ -6,6 +6,7 @@ public class sum {
         int a = 12;
         int b = 13;
         System.out.println(a + b);
+        System.out.println("I am telling someone about git");
     }
 
 
